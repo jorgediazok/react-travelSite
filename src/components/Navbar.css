@@ -41,7 +41,7 @@
   list-style: none;
   text-align: center;
   width: 60vw;
-  justify-content: flex-end;
+  justify-content: end;
   margin-right: 2rem;
 }
 
